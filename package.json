@@ -1,7 +1,7 @@
 {
   "name": "family-tree",
   "version": "0.1.0",
-  "homepage": "/",
+  "homepage": "/FamilyTree",
   "dependencies": {
     "react": "^18.2.0",
     "react-d3-tree": "^3.6.2",
